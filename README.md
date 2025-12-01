@@ -4,9 +4,6 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
-  <!-- SQLite -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-
   <!-- JSON -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="45"/>
 
