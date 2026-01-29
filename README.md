@@ -18,6 +18,12 @@
 
 ---
 
+## Badges
+
+![Bootcamp DIO](<img width="120" height="127" alt="image" src="https://github.com/user-attachments/assets/4c9cfbd0-f2c2-4328-8843-983a3ee5f16e" />
+)
+
+
 ## Projetos em destaque
 
 | Projeto | Descrição | Link |
