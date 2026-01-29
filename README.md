@@ -13,8 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/Streamlit-Em%20Progresso-yellow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
 </p>
 
 ---
@@ -34,6 +34,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Em%20Progresso-yellow" />
   <img src="https://img.shields.io/badge/JavaScript-Em%20Progresso-yellow" />
-  <img src="https://img.shields.io/badge/React-Em%20Progresso-yellow" />
+  <img src="https://img.shields.io/badge/Streamlit-Em%20Progresso-yellow" />
   <img src="https://img.shields.io/badge/Node.js-Em%20Progresso-yellow" />
 </p>
