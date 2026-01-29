@@ -21,9 +21,9 @@
 ## 🏅 Badges Destaques de participações em Bootcamps
 
 <p align="center">
-  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp?raw=true" width="50"/>
-  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp?raw=true" width="50"/>
-  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp?raw=true" width="50"/>
+  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp?raw=true" width="60"/>
+  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp?raw=true" width="60"/>
+  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp?raw=true" width="60"/>
 </p>
 
 ## Projetos em destaque
