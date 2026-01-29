@@ -18,11 +18,13 @@
 
 ---
 
-## Badges
+## 🏅 Badges Destaques
 
-![Bootcamp DIO](<img width="120" height="127" alt="image" src="https://github.com/user-attachments/assets/4c9cfbd0-f2c2-4328-8843-983a3ee5f16e" />
-)
-
+<p align="center">
+  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp?raw=true" width="120"/>
+  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp?raw=true" width="120"/>
+  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp?raw=true" width="120"/>
+</p>
 
 ## Projetos em destaque
 
