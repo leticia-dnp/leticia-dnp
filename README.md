@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
