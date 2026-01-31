@@ -1,6 +1,6 @@
 # Olá, este é o meu portfólio.
 
-💻 **Acadêmica de Sistemas de Informação. Desenvolvedora Fullstack Jr & Entusiasta de Inteligência Artificial**  
+💻 **Acadêmica de Sistemas de Informação. Desenvolvedora Fullstack Jr &  Hands-on de IA**  
 🎯 Apaixonada por aprender e aplicar novas tecnologias em projetos reais!  
 📫 Contato: [LinkedIn](www.linkedin.com/in/letíciadnp) | [Email](leticianascimentopereira694@gmail.com) 
 
