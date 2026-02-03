@@ -1,7 +1,7 @@
 # Olá, este é o meu portfólio.
 
-💻 **Acadêmica de Sistemas de Informação. Desenvolvedora Fullstack Jr &  Hands-on de IA**  
-🎯 Apaixonada por aprender e aplicar novas tecnologias em projetos reais!  
+💻 **Acadêmica de Sistemas de Informação. Desenvolvedora Fullstack Jr & Hands-on de IA**  
+🎯 Apaixonada por aprender e aplicar novas tecnologias unindo Inteligência Artificial em projetos reais!  
 📫 Contato: [LinkedIn](www.linkedin.com/in/letíciadnp) | [Email](leticianascimentopereira694@gmail.com) 
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-## 🏅 Badges Destaques de participações em Bootcamps
+## 🏅 Badges de participações em Bootcamps
 
 <p align="center">
   <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp?raw=true" width="60"/>
@@ -31,7 +31,7 @@
 | Projeto | Descrição | Link |
 |---------|-----------|------|
 | [Projeto 1](https://leticia-dnp.github.io/chatbot-destino-brasil/) | Chatbot web para planejar viagens dentro do Brasil | [Repositório](https://github.com/leticia-dnp/chatbot-destino-brasil) |
-| [Projeto 2](https://dashboard-salarios-app-llf5rqu4byazzv5rthdmgr.streamlit.app/) | Dashboard de Análise de sálarios na área de dados. | [Repositório](https://github.com/leticia-dnp/dashboard-salarios-streamlit) |
+| [Projeto 2](https://github.com/leticia-dnp/mini-guia-finan-as-digitais/blob/main/Mini-Guia-Finan%C3%A7asDigitais/README.md) | Mini Guia de Finanças Digitais (Engenharia de Prompts) | [Repositório](https://github.com/leticia-dnp/mini-guia-finan-as-digitais/tree/main/Mini-Guia-Finan%C3%A7asDigitais) |
 | [Projeto 3](https://sites.google.com/view/smarttechms/jogos/jogo-de-digita%C3%A7%C3%A3o?authuser=0) | Projeto Acadêmico: Jogo Educativo de Digitação | [Repositório](https://github.com/leticia-dnp/Digitech-JogoEducativoDeDigita-o) |
 
 ---
