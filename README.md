@@ -18,7 +18,7 @@
 
 ---
 
-## 🏅 Badges de participações em Bootcamps
+## 🏅 Principais Badges
 
 <p align="center">
   <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp?raw=true" width="60"/>
