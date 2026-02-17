@@ -8,7 +8,7 @@
 
 ---
 
-# 👩🏻‍💻 Sobre mim
+# Sobre mim:
 
 Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Artificial. Sou movida por transformar problemas reais em soluções escaláveis, funcionais e que gerem impacto positivo.
 
@@ -20,7 +20,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# 🤝 Conecte-se comigo!
+# Conecte-se comigo!
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# 🏆 Badges
+# 🏆 Badges - DIO Campus Expert
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# 📌 Projetos em progresso
+# Projetos em progresso
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-## 🌱 Evolução
+## Evolução
 
 <div align="center">
 
@@ -84,27 +84,37 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=leticia-dnp
-&show_icons=true
-&locale=pt-br
-&hide=email
-&title_color=FFB6D9
-&icon_color=FF8FC7
-&text_color=FFFFFF
-&bg_color=0d1117
-&border_color=FF8FC7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&locale=pt-br&title_color=FFC0E0&icon_color=FF9ACD&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
 
 </td>
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp
-&layout=compact
-&locale=pt-br
-&title_color=FFB6D9
-&text_color=FFFFFF
-&bg_color=0d1117
-&border_color=F_
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&locale=pt-br&title_color=FFC0E0&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=leticia-dnp&locale=pt-br&background=0d1117&border=FF9ACD&stroke=FF9ACD&ring=FF9ACD&fire=FF9ACD&currStreakLabel=FFC0E0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
+
+</td>
+
+<td>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticia-dnp&theme=dracula"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
