@@ -69,28 +69,26 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&count_private=true&include_all_commits=true&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
+src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&title_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&theme=transparent&title_color=FFD6EC&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🌱 Evolução
+## 🌱 Evolução
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&title_color=F8A1D1&text_color=FFFFFF&bg_color=0d1117"/>
-
-</div>
-
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=leticia-dnp&bg_color=0d1117&color=FFD6EC&line=FFD6EC&point=FFFFFF&hide_border=true"/>
 
 </div>
 
