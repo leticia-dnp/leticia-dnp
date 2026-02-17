@@ -79,14 +79,20 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <div align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticia-dnp&theme=github_dark"/>
+<img width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticia-dnp&theme=dracula"/>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticia-dnp&theme=github_dark"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticia-dnp&theme=dracula"/>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leticia-dnp&theme=github_dark"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leticia-dnp&theme=dracula"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticia-dnp&theme=dracula"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leticia-dnp&theme=dracula&utcOffset=-4"/>
 
 </div>
 
