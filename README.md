@@ -13,14 +13,14 @@
 Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Artificial. Sou movida por transformar problemas reais em soluções escaláveis, funcionais e que gerem impacto positivo.
 
 • Acadêmica de Sistemas de Informação (7° Semestre) - UFGD.
+
 • Foco em Frontend, Python e IA generativa. 
+
 • Entusiasta de Engenharia de IA e LLMs.
 
 ---
 
-# Conecte-se comigo!
-
-<div align="center">
+# Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/letíciadnp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28"/>
