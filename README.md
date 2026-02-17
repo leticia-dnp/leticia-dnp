@@ -17,14 +17,13 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 • Entusiasta de Engenharia de IA e LLMs.
 
 ---
-
 # Conecte-se comigo!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD6EC?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/letíciadnp)
+[![LinkedIn](https://img.shields.io/badge/-FFD6EC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFD6EC&logoWidth=40&logoHeight=40)](https://www.linkedin.com/in/letíciadnp)
 
-[![Email](https://img.shields.io/badge/Email-FFD6EC?style=for-the-badge&logo=gmail&logoColor=white)](leticianascimentopereira694@gmail.com)
+[![Email](https://img.shields.io/badge/-FFD6EC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD6EC&logoWidth=40&logoHeight=40)](mailto:leticianascimentopereira694@gmail.com)
 
 </div>
 
