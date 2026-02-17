@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=22,23,24,25,26,27&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=ff69b4,ff1493,ff85a2,ffc0cb,f78da7,f4a6c1&section=header&animation=fadeIn"/>
 
 <div align="center">
 
@@ -47,7 +47,6 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 <img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-ai.png.webp">
 <img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp">
 <img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-dados.png">
-<img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp">
 <img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp">
 
 </div>
