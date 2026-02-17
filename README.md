@@ -17,7 +17,6 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 • Entusiasta de Engenharia de IA e LLMs.
 
 ---
-# Conecte-se comigo!
 
 # Conecte-se comigo!
 
@@ -28,7 +27,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 </a>
 
 <a href="mailto:leticianascimentopereira694@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" width="28" height="28"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" height="28"/>
 </a>
 
 </div>
