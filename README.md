@@ -22,11 +22,11 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 <div align="center">
 
 <a href="https://www.linkedin.com/in/letíciadnp">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
 </a>
 
 <a href="mailto:leticianascimentopereira694@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="35" height="35"/>
 </a>
 
 </div>
