@@ -12,8 +12,10 @@
 
 Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Artificial. Sou movida por transformar problemas reais em soluções escaláveis, funcionais e que gerem impacto positivo.
 
-• Acadêmica de Sistemas de Informação (7° Semestre) - UFGD. 
+• Acadêmica de Sistemas de Informação (7° Semestre) - UFGD.
+
 • Foco em Frontend, Python e IA generativa. 
+
 • Entusiasta de Engenharia de IA e LLMs.
 
 ---
@@ -74,10 +76,10 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF"/>
+src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF&border_color=0d1117"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&theme=transparent&title_color=FFD6EC&text_color=FFFFFF"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&bg_color=0d1117&title_color=FFD6EC&text_color=FFFFFF&border_color=0d1117"/>
 
 </div>
 
@@ -88,7 +90,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=leticia-dnp&bg_color=0d1117&color=FFD6EC&line=FFD6EC&point=FFFFFF&hide_border=true"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticia-dnp&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticia-dnp&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leticia-dnp&theme=github_dark"/>
 
 </div>
 
