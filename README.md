@@ -1,46 +1,103 @@
-# Olá, este é o meu portfólio.
+<!-- HEADER ROSA CLARO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6EC,F8A1D1&height=160&section=header"/>
 
-💻 **Acadêmica de Sistemas de Informação. Desenvolvedora Fullstack Jr & Hands-on de IA**  
-🎯 Apaixonada por aprender e aplicar novas tecnologias unindo Inteligência Artificial em projetos reais!  
-📫 Contato: [LinkedIn](www.linkedin.com/in/letíciadnp) | [Email](leticianascimentopereira694@gmail.com) 
+<!-- TITULO ANIMADO -->
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+a+Let%C3%ADcia;Fullstack+Developer+%7C+AI+Builder;Welcome+to+my+Portfolio)](https://git.io/typing-svg)
 
-## Main Skills
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
-</p>
+</div>
 
 ---
 
-## 🏅 Principais Badges
+# 👩🏻‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp?raw=true" width="60"/>
-  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp?raw=true" width="60"/>
-  <img src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp?raw=true" width="60"/>
-</p>
+Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Artificial. Sou movida por transformar problemas reais em soluções escaláveis, funcionais e que gerem impacto positivo.
 
-## Projetos em destaque
+• Acadêmica de Sistemas de Informação (7° Semestre) - UFGD. 
+• Foco em Frontend, Python e IA generativa. 
+• Entusiasta de Engenharia de IA e LLMs.
+
+---
+
+# 🤝 Conecte-se comigo!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD6EC?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/letíciadnp)
+
+[![Email](https://img.shields.io/badge/Email-FFD6EC?style=for-the-badge&logo=gmail&logoColor=white)](leticianascimentopereira694@gmail.com)
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode" />
+
+</div>
+
+---
+
+# 🏆 Badges
+
+<div align="center">
+
+<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-ai.png.webp">
+<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp">
+<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-dados.png">
+<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp">
+<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp">
+
+</div>
+
+---
+
+# 📌 Projetos em progresso
+
+<div align="center">
 
 | Projeto | Descrição | Link |
-|---------|-----------|------|
-| [Projeto 1](https://leticia-dnp.github.io/chatbot-destino-brasil/) | Chatbot web para planejar viagens dentro do Brasil | [Repositório](https://github.com/leticia-dnp/chatbot-destino-brasil) |
-| [Projeto 2](https://github.com/leticia-dnp/mini-guia-finan-as-digitais/blob/main/Mini-Guia-Finan%C3%A7asDigitais/README.md) | Mini Guia de Finanças Digitais (Engenharia de Prompts) | [Repositório](https://github.com/leticia-dnp/mini-guia-finan-as-digitais/tree/main/Mini-Guia-Finan%C3%A7asDigitais) |
-| [Projeto 3](https://sites.google.com/view/smarttechms/jogos/jogo-de-digita%C3%A7%C3%A3o?authuser=0) | Projeto Acadêmico: Jogo Educativo de Digitação | [Repositório](https://github.com/leticia-dnp/Digitech-JogoEducativoDeDigita-o) |
+|---|---|---|
+| Mini Guia de Finanças Digitais | Desenvolvido utilizando o NotbookLM, com foco em organizar e aprofundar estudos sobre Finanças Digitais utilizando Engenharia de Prompts | [View](https://github.com/leticia-dnp/mini-guia-finan-as-digitais) |
+| Simulador Financeiro | Desenvolvido com o objetivo de aplicar conceitos de engenharia de software, desenvolvimento web e visualização de dados em um simulador interativo de investimentos. | [View](https://github.com/leticia-dnp/simulador-financeiro) |
+| Destino Brasil | Chatbot web para planejamento de viagens nacionais | [View](https://github.com/leticia-dnp/chatbot-destino-brasil) |
+| Digitech | Jogo educacional de digitação | [View](https://github.com/leticia-dnp/Digitech-JogoEducativoDeDigita-o) |
+
+</div>
 
 ---
 
-## 📊 Skills em progresso
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Em%20Progresso-yellow" />
-  <img src="https://img.shields.io/badge/JavaScript-Em%20Progresso-yellow" />
-  <img src="https://img.shields.io/badge/Streamlit-Em%20Progresso-yellow" />
-  <img src="https://img.shields.io/badge/Node.js-Em%20Progresso-yellow" />
-</p>
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&title_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🌱 Me aprofundando em:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-In%20Progress-FFD6EC?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-In%20Progress-FFD6EC?style=for-the-badge)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-FFD6EC?style=for-the-badge)
+
+![LLM Engineering](https://img.shields.io/badge/LLM-Engineering-FFD6EC?style=for-the-badge)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6EC,F8A1D1&height=160&section=footer"/>
