@@ -26,7 +26,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 </a>
 
 <a href="mailto:leticianascimentopereira694@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="35" height="35"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg](https://github.com/leticia-dnp/leticia-dnp/blob/main/gmail.png)" width="35" height="35"/>
 </a>
 
 </div>
