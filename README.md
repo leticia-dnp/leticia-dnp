@@ -44,11 +44,11 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <div align="center">
 
-<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-ai.png.webp">
-<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp">
-<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-dados.png">
-<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp">
-<img height="50" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp">
+<img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-ai.png.webp">
+<img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20nexa%20IA.webp">
+<img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge-dio-dados.png">
+<img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20AI%20102%20Microsoft.webp">
+<img height="70" src="https://github.com/leticia-dnp/leticia-dnp/blob/main/badge%20santander.webp">
 
 </div>
 
@@ -69,29 +69,28 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&count_private=true&include_all_commits=true&title_color=FFD6EC&icon_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&title_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&title_color=FFD6EC&text_color=FFFFFF&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-# 🌱 Me aprofundando em:
+# 🌱 Evolução
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-In%20Progress-FFD6EC?style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&title_color=F8A1D1&text_color=FFFFFF&bg_color=0d1117"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-In%20Progress-FFD6EC?style=for-the-badge)
+</div>
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-FFD6EC?style=for-the-badge)
-
-![LLM Engineering](https://img.shields.io/badge/LLM-Engineering-FFD6EC?style=for-the-badge)
 
 </div>
 
