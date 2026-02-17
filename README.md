@@ -13,9 +13,7 @@
 Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Artificial. Sou movida por transformar problemas reais em soluções escaláveis, funcionais e que gerem impacto positivo.
 
 • Acadêmica de Sistemas de Informação (7° Semestre) - UFGD.
-
 • Foco em Frontend, Python e IA generativa. 
-
 • Entusiasta de Engenharia de IA e LLMs.
 
 ---
@@ -32,7 +30,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# Tech Stack
+# Hard Skills
 
 <div align="center">
 
@@ -56,7 +54,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 ---
 
-# Projetos em progresso
+# Projetos em destaque
 
 <div align="center">
 
@@ -74,8 +72,6 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 </div>
 
 ---
-
-## Evolução
 
 <div align="center">
 
