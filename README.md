@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6EC,F8A1D1&height=160&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6EC,F8A1D1&height=180&section=header"/>
 
-<!-- TITULO ANIMADO -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&weight=400&size=32&pause=0&speed=80&color=FFFFFF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+me+chamo+Let%C3%ADcia!;Este+%C3%A9+meu+portf%C3%B3lio+em+constante+evolu%C3%A7%C3%A3o.)](https://git.io/typing-svg)
