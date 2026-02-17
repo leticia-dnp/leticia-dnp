@@ -83,10 +83,6 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 </td>
 
-<strong style="color:#FFC0E0"> Linguagens mais utilizadas</strong>
-
-</td>
-
 </tr>
 
 <tr>
@@ -95,19 +91,11 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leticia-dnp&background=0d1117&border=FF9ACD&stroke=FF9ACD&ring=FF9ACD&fire=FF9ACD&currStreakLabel=FFC0E0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
 
-<br>
-
-<strong style="color:#FFC0E0"> Sequência de contribuições</strong>
-
 </td>
 
 <td>
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticia-dnp&theme=dracula"/>
-
-<br>
-
-<strong style="color:#FFC0E0"> Repositórios por linguagem</strong>
 
 </td>
 
