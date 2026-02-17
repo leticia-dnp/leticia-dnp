@@ -34,7 +34,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,streamlit,html,css,github,vscode" />
 
 </div>
 
