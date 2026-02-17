@@ -79,25 +79,9 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&include_all_commits=true&count_private=true&title_color=FFC0E0&icon_color=FF9ACD&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
-
-<br>
-
 <strong style="color:#FFC0E0">📊 Estatísticas gerais</strong>
 
 </td>
-
-<td>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&title_color=FFC0E0&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
-
-<br>
 
 <strong style="color:#FFC0E0"> Linguagens mais utilizadas</strong>
 
