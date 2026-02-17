@@ -80,17 +80,26 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 <div align="center">
 
 <table>
+
 <tr>
 
 <td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&locale=pt-br&title_color=FFC0E0&icon_color=FF9ACD&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-dnp&show_icons=true&include_all_commits=true&count_private=true&title_color=FFC0E0&icon_color=FF9ACD&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
+
+<br>
+
+<strong style="color:#FFC0E0">📊 Estatísticas gerais</strong>
 
 </td>
 
 <td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&locale=pt-br&title_color=FFC0E0&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-dnp&layout=compact&langs_count=8&title_color=FFC0E0&text_color=FFFFFF&bg_color=0d1117&border_color=FF9ACD"/>
+
+<br>
+
+<strong style="color:#FFC0E0"> Linguagens mais utilizadas</strong>
 
 </td>
 
@@ -100,13 +109,21 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <td>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=leticia-dnp&locale=pt-br&background=0d1117&border=FF9ACD&stroke=FF9ACD&ring=FF9ACD&fire=FF9ACD&currStreakLabel=FFC0E0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leticia-dnp&background=0d1117&border=FF9ACD&stroke=FF9ACD&ring=FF9ACD&fire=FF9ACD&currStreakLabel=FFC0E0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
+
+<br>
+
+<strong style="color:#FFC0E0"> Sequência de contribuições</strong>
 
 </td>
 
 <td>
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticia-dnp&theme=dracula"/>
+
+<br>
+
+<strong style="color:#FFC0E0"> Repositórios por linguagem</strong>
 
 </td>
 
