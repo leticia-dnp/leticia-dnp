@@ -109,4 +109,4 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 ---
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD6EC,F8A1D1&height=160&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=ff69b4,ff1493,ff85a2,ffc0cb,f78da7,f4a6c1&section=header&animation=fadeIn"/>
