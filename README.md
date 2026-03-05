@@ -14,7 +14,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 • Acadêmica de Sistemas de Informação (7° Semestre) - UFGD.
 
-• Foco em Frontend, Python e IA generativa. 
+• Foco em Frontend e IA generativa. 
 
 • Entusiasta de Engenharia de IA e LLMs.
 
