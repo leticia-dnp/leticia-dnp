@@ -40,7 +40,7 @@ Desenvolvedora Fullstack Júnior com vivência prática em IA. Acredito que a te
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,Streamlit,github" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,github" />
 
 </div>
 
