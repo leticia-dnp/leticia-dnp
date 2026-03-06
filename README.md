@@ -10,13 +10,13 @@
 
 # Sobre mim:
 
-Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Artificial. Sou movida por transformar problemas reais em soluções escaláveis, funcionais e que gerem impacto positivo.
+Desenvolvedora Fullstack Júnior com vivência prática em IA. Acredito que a tecnologia bem construída começa em entender o problema certo e termina com uma solução que realmente irá funcionar para quem vai usá-la.
 
-• Acadêmica de Sistemas de Informação (7° Semestre) - UFGD.
+• Acadêmica em Sistemas de Informação pela Universidade Federal da Grande Dourados, atualmente no 7° Semestre (período noturno). 
 
-• Foco em Frontend e IA generativa. 
+• Entusiasta de Cloud Computing.
 
-• Entusiasta de Engenharia de IA e LLMs.
+• Organizada, proativa e ótima comunicação.
 
 ---
 
@@ -40,7 +40,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,streamlit,vscode" />
 
 </div>
 
@@ -63,7 +63,7 @@ Desenvolvedora Fullstack Júnior com experiência hands-on em Inteligência Arti
 
 <div align="center">
 
-| Projeto | Descrição | Link |
+| Projeto | Descrição | Link do Repositório |
 |---|---|---|
 | Mini Guia de Finanças Digitais | Desenvolvido utilizando o NotbookLM, com foco em organizar e aprofundar estudos sobre Finanças Digitais utilizando Engenharia de Prompts | [View](https://github.com/leticia-dnp/mini-guia-finan-as-digitais) |
 | Simulador Financeiro | Desenvolvido com o objetivo de aplicar conceitos de engenharia de software, desenvolvimento web e visualização de dados em um simulador interativo de investimentos. | [View](https://github.com/leticia-dnp/simulador-financeiro) |
